@@ -48,7 +48,7 @@ Deception_detection/
 1. Clone the repository:
 
 git clone https://github.com/Ashish1413/Lie-Detecting-System.git
-cd Deception-Detection
+cd Lie-Detecting-System
 
 Install the pre trained model below:
 https://drive.google.com/drive/folders/1izJQF5bcbqNdDpYAdFvLCG0qJnHlicAg?usp=sharing
