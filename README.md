@@ -47,7 +47,6 @@ Deception_detection/
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/Ashwini-Manohar/Deception-Detection.git
 cd Deception-Detection
 
@@ -55,10 +54,8 @@ Install the pre trained model below:
 https://drive.google.com/drive/folders/1izJQF5bcbqNdDpYAdFvLCG0qJnHlicAg?usp=sharing
 
 Install the required packages:
-bash
 pip install -r requirements.txt
 
 Run the GUI:
-bash
 python lie_GUI.py
 
