@@ -48,14 +48,18 @@ Deception_detection/
 1. Clone the repository:
 
 git clone https://github.com/Ashish1413/Lie-Detecting-System.git
+
 cd Lie-Detecting-System
 
 Install the pre trained model below:
+
 https://drive.google.com/drive/folders/1izJQF5bcbqNdDpYAdFvLCG0qJnHlicAg?usp=sharing
 
 Install the required packages:
+
 pip install -r requirements.txt
 
 Run the GUI:
+
 python lie_GUI.py
 
